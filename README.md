@@ -108,17 +108,11 @@ Export clean, lint-free, dependency-free code in your stack of choice:
 
 ---
 
-## 🤖 Mascot: Ben-kun & Bento-bot
+## 🤖 Mascot: Bento-bot
 
-We have envisioned two mascots to represent the blend of **art** and **engineering** in YourBento Studio.
+To represent the blend of **art** and **engineering** in YourBento Studio, we've designed a digital guardian for your grids.
 
-### Mascot 1: Ben-kun (The Prototyper)
-> *"The friendly chef who plates your code perfectly."*
-
-**AI Image Prompt:**
-`A cute, anthropomorphic bento box character named 'Ben-kun'. He has a sleek, minimalist white plastic body with rounded corners. Each compartment inside him contains a different UI element (a button, a toggle, a small graph, and an icon). He wears oversized, stylish developer glasses and a small tool belt. He is holding a glowing digital paintbrush. Style: 3D render, high detail, vibrant colors (Candy palette), friendly and helpful expression, soft studio lighting.`
-
-### Mascot 2: Bento-bot (The Grid Master)
+### Bento-bot (The Grid Master)
 > *"The futuristic logic behind every pixel."*
 
 **AI Image Prompt:**
